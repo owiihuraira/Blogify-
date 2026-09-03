@@ -1,0 +1,25 @@
+```gitignore
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Environment variables
+.env
+frontend/.env
+backend/.env
+.env.local
+frontend/.env.local
+backend/.env.local
+
+# Next.js
+frontend/.next/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+```
